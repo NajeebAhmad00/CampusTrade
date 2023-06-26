@@ -1,0 +1,7 @@
+/client/node_modules
+/client/package-lock.json
+/client/README.md
+
+/api/node_modules
+/api/.env
+/api/package-lock.json
